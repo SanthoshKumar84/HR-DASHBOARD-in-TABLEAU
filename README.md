@@ -1,6 +1,4 @@
-HR Data Analysis Dashboard
-
-![Dashboard Preview](Dashboard1.png)
+## HR Data Analysis Dashboard
 
 A Tableau-based interactive dashboard providing insights into workforce demographics, salary distribution, employee growth, and more using HR data.
 
@@ -42,7 +40,4 @@ The dataset includes:
 - **Education Impact**: Employees with Master’s degrees earn 25% more on average.
 - **Gender Gap**: Females dominate roles like Marketing and Quality Control.
 - **Retention**: Employees hired in 2018–2019 have higher leave balances, suggesting tenure benefits.
-
-Acknowledgments
-- Dataset sourced from fictional HR records.
-- Tableau Community for design inspiration.
+.

@@ -2,8 +2,10 @@
 
 A Tableau-based interactive dashboard providing insights into workforce demographics, salary distribution, employee growth, and more using HR data.
 
+![Dashboard 1](https://github.com/SanthoshKumar84/HR-DASHBOARD-in-TABLEAU/blob/main/Dashboard%201.png)
+
 ## Overview
-This dashboard visualizes key HR metrics from `hr-data-analysis.xlsx`, offering actionable insights into employee distribution, compensation trends, gender diversity, and leave balances. Designed for HR professionals to optimize workforce management.
+This dashboard visualizes key HR metrics from `hr-data-analysis.xlsx`, offering actionable insights into employee distribution, compensation trends, gender diversity, and leave balances. Designed for ...
 
 ## Features
 - **Employee Distribution**: Breakdown by job title, education, and gender.
@@ -40,4 +42,3 @@ The dataset includes:
 - **Education Impact**: Employees with Master’s degrees earn 25% more on average.
 - **Gender Gap**: Females dominate roles like Marketing and Quality Control.
 - **Retention**: Employees hired in 2018–2019 have higher leave balances, suggesting tenure benefits.
-.
